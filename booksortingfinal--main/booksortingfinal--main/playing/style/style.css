@@ -1,0 +1,55 @@
+
+h1{
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 5px 0 0 100px;
+}
+
+
+#All{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-size: 20px;
+    margin: 20px 5px 5px 50px;
+    border-radius: 10px;
+}
+
+#Poetry{
+    background-color:#36D9BB;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+#Fiction{
+    background-color:#36BFA6;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+#Biography{
+    background-color:#38F2BD;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+#auth {
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#title {
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#display{
+
+    background-color:rgb(241, 240, 240);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+ 
+
